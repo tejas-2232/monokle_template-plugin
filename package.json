@@ -1,0 +1,15 @@
+{
+	"name": "Templates plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Tejas Bachhav",
+	"repository": "https://github.com/tejas-2232/monokle_template-plugin",
+	"monoklePlugin": {
+		"id": "com.github.tejas-2232.plugin.templates",
+		"helpUrl": "https://github.com/tejas-2232/monokle_template-plugin",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
+}
